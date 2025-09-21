@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @JTall1ne
-- 👀 I’m interested in ...Developing a streaming device OS with very few restrictions since most suck now.
-- 🌱 I’m currently learning ...Everything about a week in so far
-- 💞️ I’m looking to collaborate on ...Anything you think i should learn
-- 📫 How to reach me ...Its hit or miss regaurdless 
-- ![image](https://user-images.githubusercontent.com/104698667/166123966-a9f9d4ae-648a-4dd4-b571-763ccb61bca4.png)
+# Hi there, I’m Josh 👋
 
-<!---
-JTall1ne/JTall1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my corner of GitHub!  I’m **Joshua Hilburn** (better known online as **JTall1ne**), a lifelong technology enthusiast and current **Bachelor of Science in Cybersecurity** student at the University of Phoenix.  I built my first desktop computer when I was eight years old, and I’ve been exploring hardware, coding and security ever since.
+
+## 🔭 What I’m working on
+
+- Learning advanced topics in **cybersecurity**, including network defense, ethical hacking and incident response.
+- Building small applications and prototypes—check out my [Vaelix‑2](https://github.com/JTall1ne/Vaelix-2) repository for an example of a collaborative project where I contributed the concept and user‑experience goals.
+- Exploring emerging technologies such as **robotics**, **quantum computing** and **AI**, and thinking deeply about the ethical implications of combining human minds with machines.
+
+## 🌱 Currently learning
+
+- **Python** and **JavaScript/Node.js** for software and web development.
+- **Linux** and **Windows** administration, virtualization and cloud fundamentals.
+- **Risk management frameworks** and other cybersecurity best practices.
+
+## 🗫 Ask me about
+
+- Building custom PCs and optimizing hardware.
+- Designing simple websites with HTML/CSS and JavaScript.
+- Getting started with GitHub and version control workflows.
+
+## 📧 How to reach me
+
+Feel free to open an issue on one of my repositories or connect with me via [LinkedIn](https://www.linkedin.com/).  Email available on request.
+
+## ⚡ï¸ Fun facts
+
+- I have a deep interest in **philosophy**, **meditation** and how technology intersects with human wellbeing.
+- When I’m not coding, you might find me reading about **microbiology**, **advanced robotics** or **quantum physics**.
